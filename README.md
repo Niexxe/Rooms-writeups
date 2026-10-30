@@ -8,7 +8,6 @@ Write-ups for hands-on cybersecurity labs and CTF challenges. TryHackMe reports 
 | --- | --- | --- |
 | TryHackMe | [Room 404](./tryhackme/room-404/) | Web content discovery and exposed Git metadata |
 | TryHackMe | [Shadow Trace](./tryhackme/shadow-trace/) | Static malware analysis, string decoding, and event correlation |
-
 | HackerLab | [PDF Library](./hackerlab/pdf-library/) | Hex-encoded file parameters, source disclosure, and directory traversal |
 
 ## Repository structure
