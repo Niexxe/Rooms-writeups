@@ -1,7 +1,6 @@
 # CTF Write-ups
 
-Write-ups for hands-on cybersecurity labs and CTF challenges. TryHackMe reports are in English; the HackerLab report is in Russian.
-
+Write-ups for hands-on cybersecurity labs and CTF challenges.
 ## Write-ups
 
 | Platform | Challenge | Focus |
@@ -30,4 +29,4 @@ Rooms-writeups/
 
 ## Disclaimer
 
-The techniques documented here were used only in authorized lab environments. Flags are redacted in the TryHackMe write-ups. The HackerLab write-up retains the supplied screenshots.
+The techniques documented here were used only in authorized lab environments. Flags are redacted in the TryHackMe write-ups.
